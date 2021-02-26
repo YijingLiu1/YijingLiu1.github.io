@@ -1,0 +1,15 @@
+{
+  "name": "personalwebsite",
+  "engines": {
+    "node": "*",
+    "npm": "*"
+  },
+  "scripts": {
+    "start": "http-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "http-server": "*"
+  },
+  "author": "Yijing Liu"
+}

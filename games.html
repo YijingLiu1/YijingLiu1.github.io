@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Games</title>
+    <link rel="shortcut icon" href="images/favicon.ico" />
+    <link href="css/style.css" rel="stylesheet">
+    <link href="css/dynamic.css" rel="stylesheet">
+</head>
+<body>
+    <div id="Layer1">
+        <img src="images/background.jpg">
+    </div>
+
+    <div class="header-nav-bar">
+        <li href="#">YIJING LIU</li>
+        <a href="about.html">About</a>
+        <a href="#">Games</a>
+        <a href="index.html">Home</a>
+    </div>
+
+    <div class="slide">
+
+        <div class="page fade">
+            <div class="title">Final Fantasy XIV</div>
+            <img src="images/1.jpg">
+            <div class="bottom">
+                <a class="link" href="https://www.finalfantasyxiv.com/" target="_blank">Official Website</a>
+                <div>Become what you must. Become the Warrior of Darkness.</div>
+            </div>
+        </div>
+
+        <div class="page fade">
+            <div class="title">Ori and the Will of Wisps</div>
+            <img src="images/2.jpg">
+            <div class="bottom">
+                <a class="link" href="https://www.orithegame.com/" target="_blank">Official Website</a>
+                <div>To get Ku back, Ori started his adventure in the world of Niwen.</div>
+            </div>
+        </div>
+
+        <div class="page fade">
+            <div class="title">Xenoblade Chronicles 2</div>
+            <img src="images/3.jpg">
+            <div class="bottom">
+                <a class="link" href="http://xenobladechronicles2.nintendo.com/" target="_blank">Official Website</a>
+                <div>Lead Rex, Pyra, and the world to refuge.</div>
+            </div>
+        </div>
+
+        <a class="prev button" onclick="plusSlides(-1)">&#10094;</a>
+        <a class="next button" onclick="plusSlides(1)">&#10095;</a>
+    </div>
+
+    <div class="end">
+        <span class="dot" onclick="currentSlide(1)"></span>
+        <span class="dot" onclick="currentSlide(2)"></span>
+        <span class="dot" onclick="currentSlide(3)"></span>
+    </div>
+
+    <script src="javascripts/switch.js"></script>
+</body>
+</html>
