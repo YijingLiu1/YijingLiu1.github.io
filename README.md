@@ -1,3 +1,3 @@
-# Personal Website - Yijing Liu
+# Personal Website
 
 https://yijingliu1.github.io/
