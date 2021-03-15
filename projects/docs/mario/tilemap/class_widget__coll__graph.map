@@ -1,0 +1,6 @@
+<map id="Widget" name="Widget">
+<area shape="rect" id="node1" title="Main window class of the TileMap Editor." alt="" coords="99,184,167,211"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,95,84,121"/>
+<area shape="rect" id="node3" href="$class_tile_set.html" title="Class for storing Tile set info Provide functions to render tiles and serialize TileSet to string." alt="" coords="121,5,187,32"/>
+<area shape="rect" id="node4" href="$class_tile_map.html" title="Class of a TileMap object. Store TileMap data, provide basic operation , serialization and render to ..." alt="" coords="203,95,278,121"/>
+</map>

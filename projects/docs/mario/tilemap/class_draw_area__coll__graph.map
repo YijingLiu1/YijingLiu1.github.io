@@ -1,0 +1,7 @@
+<map id="DrawArea" name="DrawArea">
+<area shape="rect" id="node1" title="Custom widget to draw images on it. Implement by overriding paintEvent(QPaintEvent *event)" alt="" coords="27,273,113,300"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,95,84,121"/>
+<area shape="rect" id="node3" href="$class_widget.html" title="Main window class of the TileMap Editor." alt="" coords="95,184,163,211"/>
+<area shape="rect" id="node4" href="$class_tile_set.html" title="Class for storing Tile set info Provide functions to render tiles and serialize TileSet to string." alt="" coords="121,5,187,32"/>
+<area shape="rect" id="node5" href="$class_tile_map.html" title="Class of a TileMap object. Store TileMap data, provide basic operation , serialization and render to ..." alt="" coords="203,95,278,121"/>
+</map>

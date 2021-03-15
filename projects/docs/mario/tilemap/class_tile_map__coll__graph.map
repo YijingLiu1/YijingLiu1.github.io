@@ -1,0 +1,4 @@
+<map id="TileMap" name="TileMap">
+<area shape="rect" id="node1" title="Class of a TileMap object. Store TileMap data, provide basic operation , serialization and render to ..." alt="" coords="5,95,80,121"/>
+<area shape="rect" id="node2" href="$class_tile_set.html" title="Class for storing Tile set info Provide functions to render tiles and serialize TileSet to string." alt="" coords="9,5,76,32"/>
+</map>

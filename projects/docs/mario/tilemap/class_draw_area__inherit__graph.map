@@ -1,0 +1,4 @@
+<map id="DrawArea" name="DrawArea">
+<area shape="rect" id="node1" title="Custom widget to draw images on it. Implement by overriding paintEvent(QPaintEvent *event)" alt="" coords="5,80,92,107"/>
+<area shape="rect" id="node2" title=" " alt="" coords="9,5,88,32"/>
+</map>
