@@ -1,0 +1,5 @@
+<map id="TransformComponent::getAcceleration" name="TransformComponent::getAcceleration">
+<area shape="rect" id="node1" title="Get the Acceleration value of the TransformComponent." alt="" coords="465,5,628,47"/>
+<area shape="rect" id="node2" href="$class_game_object.html#adf2efb31b1edaacd238245a647e5fb11" title="Get the Acceleration value of the GameObject." alt="" coords="204,13,417,39"/>
+<area shape="rect" id="node3" href="$binding_8cpp.html#a75376bcdc238f7354b86e6216d82bf1d" title=" " alt="" coords="5,13,156,39"/>
+</map>

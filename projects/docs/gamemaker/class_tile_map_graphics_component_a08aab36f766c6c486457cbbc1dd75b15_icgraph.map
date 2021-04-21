@@ -1,0 +1,4 @@
+<map id="TileMapGraphicsComponent::Render" name="TileMapGraphicsComponent::Render">
+<area shape="rect" id="node1" title="Implementation of render logic." alt="" coords="260,5,467,47"/>
+<area shape="rect" id="node2" href="$class_tile_map_graphics_component.html#a60f02fa9dc978789854a784d893d8d75" title="Render the tilemap on Game Window." alt="" coords="5,5,212,47"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="SpriteObject" name="SpriteObject">
+<area shape="rect" id="node1" title="SpriteObject Class which represent a common Sprite." alt="" coords="146,349,249,376"/>
+<area shape="rect" id="node2" href="$class_game_object.html" title="The base GameObject as the entity for ECS System." alt="" coords="243,260,346,287"/>
+<area shape="rect" id="node3" href="$class_graphics_component.html" title="GraphicsComponent responsible for renderring texture." alt="" coords="68,171,223,197"/>
+<area shape="rect" id="node6" href="$class_sprite_graphics_component.html" title=" " alt="" coords="5,260,197,287"/>
+<area shape="rect" id="node4" href="$class_component.html" title="The base class of Component for ECS System." alt="" coords="113,5,210,32"/>
+<area shape="rect" id="node5" href="$class_transform_component.html" title="Component to store transform info." alt="" coords="183,81,345,108"/>
+</map>

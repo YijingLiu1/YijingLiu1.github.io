@@ -1,0 +1,6 @@
+<map id="TileMapObject::SetTile" name="TileMapObject::SetTile">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,175,57"/>
+<area shape="rect" id="node2" href="$class_tile_map_graphics_component.html#acb6e9463155f2a0aed9c52d98ef17f0e" title=" " alt="" coords="223,23,429,65"/>
+<area shape="rect" id="node3" href="$class_resource_manager.html#aed896597e121b81c3c171c6c02b6df98" title=" " alt="" coords="477,5,687,32"/>
+<area shape="rect" id="node4" href="$class_config.html#abb7995cf81fc0c1a2faa8aec534f0cca" title=" " alt="" coords="512,56,652,83"/>
+</map>

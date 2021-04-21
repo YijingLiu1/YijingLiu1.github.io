@@ -1,0 +1,5 @@
+<map id="TileMapObject::PrintMap" name="TileMapObject::PrintMap">
+<area shape="rect" id="node1" title=" " alt="" coords="5,13,188,39"/>
+<area shape="rect" id="node2" href="$class_tile_map_graphics_component.html#ac02eb35baad6ca2404131a916f4d84aa" title=" " alt="" coords="236,5,443,47"/>
+<area shape="rect" id="node3" href="$class_tile_map_graphics_component.html#ac587cfe0fb7e1d34def923989edaf450" title=" " alt="" coords="491,5,697,47"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="GameObject::getDir" name="GameObject::getDir">
+<area shape="rect" id="node1" title="Get the Direction of current GameObject." alt="" coords="5,13,156,39"/>
+<area shape="rect" id="node2" href="$class_transform_component.html#a7af3c686c815fec74cd94f075021a516" title="Get the Direction of current TransformComponent." alt="" coords="204,5,367,47"/>
+</map>

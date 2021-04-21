@@ -1,0 +1,4 @@
+<map id="GameObject::getAcceleration" name="GameObject::getAcceleration">
+<area shape="rect" id="node1" title="Get the Acceleration value of the GameObject." alt="" coords="204,5,417,32"/>
+<area shape="rect" id="node2" href="$binding_8cpp.html#a75376bcdc238f7354b86e6216d82bf1d" title=" " alt="" coords="5,5,156,32"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="TransformComponent::getSDLRect" name="TransformComponent::getSDLRect">
+<area shape="rect" id="node1" title="Get the position and size of the TransformComponent." alt="" coords="713,119,876,161"/>
+<area shape="rect" id="node2" href="$class_game_object.html#a021d8e18c0dc548b34771c0d07d109f5" title="Get the position and size of the GameObject." alt="" coords="219,5,396,32"/>
+<area shape="rect" id="node4" href="$class_tile_map_graphics_component.html#a32d07975d023ca65493b7868a2ebf46c" title="Get the specific Tile&#39;s Rect info." alt="" coords="459,54,665,95"/>
+<area shape="rect" id="node6" href="$class_tile_map_graphics_component.html#a08aab36f766c6c486457cbbc1dd75b15" title="Implementation of render logic." alt="" coords="459,119,665,161"/>
+<area shape="rect" id="node8" href="$class_text_graphics_component.html#aa3d7cd08e26b64b0159e52d90f72537f" title="Render Text on the Game Window." alt="" coords="471,185,653,226"/>
+<area shape="rect" id="node9" href="$class_sprite_graphics_component.html#a7299bb40fe519dd79af39bc945935eef" title="Render the Sprite on Game Window." alt="" coords="466,250,658,291"/>
+<area shape="rect" id="node3" href="$binding_8cpp.html#a75376bcdc238f7354b86e6216d82bf1d" title=" " alt="" coords="5,33,156,60"/>
+<area shape="rect" id="node5" href="$class_tile_map_object.html#acd5ead6381457053bfccdd4ce8c6f55a" title="Get the specific Tile&#39;s Rect info." alt="" coords="207,60,407,87"/>
+<area shape="rect" id="node7" href="$class_tile_map_graphics_component.html#a60f02fa9dc978789854a784d893d8d75" title="Render the tilemap on Game Window." alt="" coords="204,119,411,161"/>
+</map>

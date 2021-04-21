@@ -1,0 +1,4 @@
+<map id="SpriteObject" name="SpriteObject">
+<area shape="rect" id="node1" title="SpriteObject Class which represent a common Sprite." alt="" coords="5,80,108,107"/>
+<area shape="rect" id="node2" href="$class_game_object.html" title="The base GameObject as the entity for ECS System." alt="" coords="5,5,108,32"/>
+</map>

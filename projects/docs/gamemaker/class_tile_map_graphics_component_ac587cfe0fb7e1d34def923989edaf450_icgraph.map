@@ -1,0 +1,9 @@
+<map id="TileMapGraphicsComponent::GetTileType" name="TileMapGraphicsComponent::GetTileType">
+<area shape="rect" id="node1" title=" " alt="" coords="713,57,920,98"/>
+<area shape="rect" id="node2" href="$class_tile_map_object.html#a0abca2386fa224f425cac2d66cbba2ca" title=" " alt="" coords="461,5,663,32"/>
+<area shape="rect" id="node3" href="$class_tile_map_graphics_component.html#ac02eb35baad6ca2404131a916f4d84aa" title=" " alt="" coords="459,57,665,98"/>
+<area shape="rect" id="node6" href="$class_tile_map_graphics_component.html#a08aab36f766c6c486457cbbc1dd75b15" title="Implementation of render logic." alt="" coords="459,122,665,163"/>
+<area shape="rect" id="node4" href="$class_tile_map_object.html#a60feb4725e3fa03b25254e591d85aba2" title=" " alt="" coords="216,64,399,91"/>
+<area shape="rect" id="node5" href="$binding_8cpp.html#a75376bcdc238f7354b86e6216d82bf1d" title=" " alt="" coords="5,64,156,91"/>
+<area shape="rect" id="node7" href="$class_tile_map_graphics_component.html#a60f02fa9dc978789854a784d893d8d75" title="Render the tilemap on Game Window." alt="" coords="204,122,411,163"/>
+</map>

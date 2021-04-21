@@ -1,0 +1,4 @@
+<map id="GameObject::input" name="GameObject::input">
+<area shape="rect" id="node1" title="Let GameObject process input." alt="" coords="5,13,149,39"/>
+<area shape="rect" id="node2" href="$class_transform_component.html#ac48edd1c7d9708711cf7040c314bd950" title="Let TransformComponent process input." alt="" coords="197,5,360,47"/>
+</map>

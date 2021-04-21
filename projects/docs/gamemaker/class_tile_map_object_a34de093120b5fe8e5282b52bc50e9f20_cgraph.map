@@ -1,0 +1,4 @@
+<map id="TileMapObject::GetTileWidth" name="TileMapObject::GetTileWidth">
+<area shape="rect" id="node1" title="Get the Tile Width." alt="" coords="5,13,215,39"/>
+<area shape="rect" id="node2" href="$class_tile_map_graphics_component.html#a2abe6c35f3cfbc7237e4979306cd260a" title="Get the Tile Width." alt="" coords="263,5,469,47"/>
+</map>

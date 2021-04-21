@@ -1,0 +1,4 @@
+<map id="SpriteObject::SetFrameNum" name="SpriteObject::SetFrameNum">
+<area shape="rect" id="node1" title="Set the total number of frames." alt="" coords="5,13,208,39"/>
+<area shape="rect" id="node2" href="$class_sprite_graphics_component.html#a15dbdf961e3ad48dc8bfb1d5dc33b52e" title="Set the total number of frames." alt="" coords="256,5,448,47"/>
+</map>

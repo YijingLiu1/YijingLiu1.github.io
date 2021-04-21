@@ -1,0 +1,4 @@
+<map id="GameObject::updateSize" name="GameObject::updateSize">
+<area shape="rect" id="node1" title="Update the size of the GameObject." alt="" coords="5,13,188,39"/>
+<area shape="rect" id="node2" href="$class_transform_component.html#a614ce738442106a1addbe86561caaa90" title="Update the size of the TransformComponent." alt="" coords="236,5,399,47"/>
+</map>

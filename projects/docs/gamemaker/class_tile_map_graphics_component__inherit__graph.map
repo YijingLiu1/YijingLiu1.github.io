@@ -1,0 +1,5 @@
+<map id="TileMapGraphicsComponent" name="TileMapGraphicsComponent">
+<area shape="rect" id="node1" title="GraphicsComponent to render TileMap." alt="" coords="5,155,212,181"/>
+<area shape="rect" id="node2" href="$class_graphics_component.html" title="GraphicsComponent responsible for renderring texture." alt="" coords="31,80,186,107"/>
+<area shape="rect" id="node3" href="$class_component.html" title="The base class of Component for ECS System." alt="" coords="60,5,157,32"/>
+</map>

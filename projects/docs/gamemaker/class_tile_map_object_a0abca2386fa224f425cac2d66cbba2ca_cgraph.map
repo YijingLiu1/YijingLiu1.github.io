@@ -1,0 +1,4 @@
+<map id="TileMapObject::GetTileType" name="TileMapObject::GetTileType">
+<area shape="rect" id="node1" title=" " alt="" coords="5,13,207,39"/>
+<area shape="rect" id="node2" href="$class_tile_map_graphics_component.html#ac587cfe0fb7e1d34def923989edaf450" title=" " alt="" coords="255,5,461,47"/>
+</map>

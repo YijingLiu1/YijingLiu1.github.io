@@ -1,0 +1,4 @@
+<map id="Engine::GenerateTextObject" name="Engine::GenerateTextObject">
+<area shape="rect" id="node1" title="Generate a TextObject and return a reference of it." alt="" coords="5,13,208,39"/>
+<area shape="rect" id="node2" href="$class_text_graphics_component.html#a5c1752e67a9576721fe97fea5d089d1a" title="Set the Font Size." alt="" coords="256,5,437,47"/>
+</map>

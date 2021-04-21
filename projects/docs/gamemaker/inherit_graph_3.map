@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_game_object.html" title="The base GameObject as the entity for ECS System." alt="" coords="5,56,108,83"/>
+<area shape="rect" id="node2" href="$class_sprite_object.html" title="SpriteObject Class which represent a common Sprite." alt="" coords="163,5,265,32"/>
+<area shape="rect" id="node3" href="$class_text_object.html" title=" " alt="" coords="169,56,259,83"/>
+<area shape="rect" id="node4" href="$class_tile_map_object.html" title=" " alt="" coords="156,107,272,133"/>
+</map>

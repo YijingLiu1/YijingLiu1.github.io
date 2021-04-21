@@ -1,0 +1,4 @@
+<map id="SpriteObject::GetFrameNames" name="SpriteObject::GetFrameNames">
+<area shape="rect" id="node1" title="Get part of the Frame ID Vector." alt="" coords="5,13,225,39"/>
+<area shape="rect" id="node2" href="$class_sprite_graphics_component.html#a04f6f35a124f4d138961c2f2a987a195" title="Get the current Frame ID Vector." alt="" coords="273,5,465,47"/>
+</map>

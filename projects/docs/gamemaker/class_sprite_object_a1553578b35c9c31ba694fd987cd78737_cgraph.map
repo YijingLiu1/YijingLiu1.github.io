@@ -1,0 +1,4 @@
+<map id="SpriteObject::GetCurrentFrameIdx" name="SpriteObject::GetCurrentFrameIdx">
+<area shape="rect" id="node1" title="Get the Current Frame Index." alt="" coords="5,5,187,47"/>
+<area shape="rect" id="node2" href="$class_sprite_graphics_component.html#a0bb4ff2ae0cf17a40368c0640ea33a5a" title="Get the Current Frame Index." alt="" coords="235,5,427,47"/>
+</map>

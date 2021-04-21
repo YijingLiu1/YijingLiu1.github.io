@@ -1,0 +1,4 @@
+<map id="TileMapObject::GetTileHeight" name="TileMapObject::GetTileHeight">
+<area shape="rect" id="node1" title="Get the Tile Height." alt="" coords="5,13,220,39"/>
+<area shape="rect" id="node2" href="$class_tile_map_graphics_component.html#a471454115ed34d7182f7ec38808e746e" title="Get the Tile Height." alt="" coords="268,5,475,47"/>
+</map>

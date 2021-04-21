@@ -1,0 +1,5 @@
+<map id="TileMapObject::GetTileRect" name="TileMapObject::GetTileRect">
+<area shape="rect" id="node1" title="Get the specific Tile&#39;s Rect info." alt="" coords="5,13,205,39"/>
+<area shape="rect" id="node2" href="$class_tile_map_graphics_component.html#a32d07975d023ca65493b7868a2ebf46c" title="Get the specific Tile&#39;s Rect info." alt="" coords="253,5,460,47"/>
+<area shape="rect" id="node3" href="$class_transform_component.html#ae61e181830074431485a51302b2d8ba1" title="Get the position and size of the TransformComponent." alt="" coords="508,5,671,47"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="TextGraphicsComponent" name="TextGraphicsComponent">
+<area shape="rect" id="node1" title="GraphicsComponent to render Text." alt="" coords="5,247,187,273"/>
+<area shape="rect" id="node2" href="$class_graphics_component.html" title="GraphicsComponent responsible for renderring texture." alt="" coords="19,171,173,197"/>
+<area shape="rect" id="node3" href="$class_component.html" title="The base class of Component for ECS System." alt="" coords="42,5,139,32"/>
+<area shape="rect" id="node4" href="$class_transform_component.html" title="Component to store transform info." alt="" coords="112,81,275,108"/>
+</map>

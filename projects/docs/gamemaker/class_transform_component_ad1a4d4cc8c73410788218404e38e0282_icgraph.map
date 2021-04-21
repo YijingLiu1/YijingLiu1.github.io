@@ -1,0 +1,5 @@
+<map id="TransformComponent::getSpeed" name="TransformComponent::getSpeed">
+<area shape="rect" id="node1" title="Get the Speed of this TransformComponent." alt="" coords="424,5,587,47"/>
+<area shape="rect" id="node2" href="$class_game_object.html#a2f21268f5ab9319440a23a151ff9e4bf" title="Get the Speed of this GameObject." alt="" coords="204,13,376,39"/>
+<area shape="rect" id="node3" href="$binding_8cpp.html#a75376bcdc238f7354b86e6216d82bf1d" title=" " alt="" coords="5,13,156,39"/>
+</map>

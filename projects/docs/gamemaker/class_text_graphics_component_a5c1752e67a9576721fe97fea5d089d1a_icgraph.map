@@ -1,0 +1,6 @@
+<map id="TextGraphicsComponent::SetFontSize" name="TextGraphicsComponent::SetFontSize">
+<area shape="rect" id="node1" title="Set the Font Size." alt="" coords="455,23,636,65"/>
+<area shape="rect" id="node2" href="$class_engine.html#aff660ec3ffc041bf5895dbdd98c4e16b" title="Generate a TextObject and return a reference of it." alt="" coords="204,5,407,32"/>
+<area shape="rect" id="node4" href="$class_text_object.html#a008121c5ab05607dd503c4e834206dc4" title="Set the Font Size." alt="" coords="218,56,393,83"/>
+<area shape="rect" id="node3" href="$binding_8cpp.html#a75376bcdc238f7354b86e6216d82bf1d" title=" " alt="" coords="5,31,156,57"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="TileMapGraphicsComponent::GetTileRect" name="TileMapGraphicsComponent::GetTileRect">
+<area shape="rect" id="node1" title="Get the specific Tile&#39;s Rect info." alt="" coords="452,5,659,47"/>
+<area shape="rect" id="node2" href="$class_tile_map_object.html#acd5ead6381457053bfccdd4ce8c6f55a" title="Get the specific Tile&#39;s Rect info." alt="" coords="204,13,404,39"/>
+<area shape="rect" id="node3" href="$binding_8cpp.html#a75376bcdc238f7354b86e6216d82bf1d" title=" " alt="" coords="5,13,156,39"/>
+</map>

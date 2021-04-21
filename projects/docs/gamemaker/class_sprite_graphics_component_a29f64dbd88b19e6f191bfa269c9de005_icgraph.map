@@ -1,0 +1,5 @@
+<map id="SpriteGraphicsComponent::GetFrameNum" name="SpriteGraphicsComponent::GetFrameNum">
+<area shape="rect" id="node1" title="Get the total number of frames." alt="" coords="457,5,649,47"/>
+<area shape="rect" id="node2" href="$class_sprite_object.html#a375cd30f276e267b9a4c615627e5a570" title="Get the total number of frames." alt="" coords="204,13,409,39"/>
+<area shape="rect" id="node3" href="$binding_8cpp.html#a75376bcdc238f7354b86e6216d82bf1d" title=" " alt="" coords="5,13,156,39"/>
+</map>

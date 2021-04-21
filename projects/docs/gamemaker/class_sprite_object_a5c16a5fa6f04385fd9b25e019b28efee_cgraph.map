@@ -1,0 +1,4 @@
+<map id="SpriteObject::SetFrameName" name="SpriteObject::SetFrameName">
+<area shape="rect" id="node1" title="Update one Frame ID." alt="" coords="5,13,216,39"/>
+<area shape="rect" id="node2" href="$class_sprite_graphics_component.html#aabc7241fcc0a12df34f6fef676345927" title="Update one Frame ID." alt="" coords="264,5,456,47"/>
+</map>

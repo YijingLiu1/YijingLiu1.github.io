@@ -1,0 +1,4 @@
+<map id="GameObject::getTFRect" name="GameObject::getTFRect">
+<area shape="rect" id="node1" title="Get the position and size of the GameObject." alt="" coords="5,13,183,39"/>
+<area shape="rect" id="node2" href="$class_transform_component.html#ae61e181830074431485a51302b2d8ba1" title="Get the position and size of the TransformComponent." alt="" coords="231,5,393,47"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="TransformComponent" name="TransformComponent">
+<area shape="rect" id="node1" title="Component to store transform info." alt="" coords="5,80,168,107"/>
+<area shape="rect" id="node2" href="$class_component.html" title="The base class of Component for ECS System." alt="" coords="38,5,135,32"/>
+</map>

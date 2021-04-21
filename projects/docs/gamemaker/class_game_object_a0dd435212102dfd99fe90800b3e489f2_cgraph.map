@@ -1,0 +1,4 @@
+<map id="GameObject::updateSpeed" name="GameObject::updateSpeed">
+<area shape="rect" id="node1" title="Update the speed of the GameObject." alt="" coords="5,13,201,39"/>
+<area shape="rect" id="node2" href="$class_transform_component.html#af401c6be4448ea5beed8c22d00a3b33c" title="Update the speed of the TransformComponent." alt="" coords="249,5,412,47"/>
+</map>

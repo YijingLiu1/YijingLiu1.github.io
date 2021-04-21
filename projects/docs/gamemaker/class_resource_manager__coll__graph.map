@@ -1,0 +1,7 @@
+<map id="ResourceManager" name="ResourceManager">
+<area shape="rect" id="node1" title=" " alt="" coords="95,95,234,121"/>
+<area shape="rect" id="node2" href="$class_config.html" title=" " alt="" coords="5,5,68,32"/>
+<area shape="rect" id="node3" href="$class_music.html" title=" " alt="" coords="92,5,152,32"/>
+<area shape="rect" id="node4" href="$class_image.html" title=" " alt="" coords="176,5,239,32"/>
+<area shape="rect" id="node5" href="$class_text.html" title=" " alt="" coords="263,5,312,32"/>
+</map>

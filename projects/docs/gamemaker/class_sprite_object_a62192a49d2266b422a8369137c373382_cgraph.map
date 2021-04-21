@@ -1,0 +1,4 @@
+<map id="SpriteObject::SetFrameNames" name="SpriteObject::SetFrameNames">
+<area shape="rect" id="node1" title="Set the Frame ID Vector." alt="" coords="5,13,224,39"/>
+<area shape="rect" id="node2" href="$class_sprite_graphics_component.html#af0569be908429417ee7400a9abc4c53a" title="Set the Frame ID Vector." alt="" coords="272,5,464,47"/>
+</map>

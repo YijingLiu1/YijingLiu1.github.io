@@ -1,0 +1,4 @@
+<map id="GameObject::updatePos" name="GameObject::updatePos">
+<area shape="rect" id="node1" title="Update the position of the GameObject." alt="" coords="5,13,184,39"/>
+<area shape="rect" id="node2" href="$class_transform_component.html#a295725157eee445bd7a6d88dd958d76e" title="Update the position of the TransformComponent." alt="" coords="232,5,395,47"/>
+</map>

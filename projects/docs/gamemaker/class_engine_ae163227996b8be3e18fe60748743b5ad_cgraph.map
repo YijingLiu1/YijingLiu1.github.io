@@ -1,0 +1,4 @@
+<map id="Engine::GetMusicSubSystem" name="Engine::GetMusicSubSystem">
+<area shape="rect" id="node1" title="Get the Music SubSystem reference." alt="" coords="5,5,213,32"/>
+<area shape="rect" id="node2" href="$class_resource_manager.html#a5223a7913f82f1560d779ed90ba2a42c" title=" " alt="" coords="261,5,468,32"/>
+</map>

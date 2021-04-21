@@ -1,0 +1,6 @@
+<map id="Image::RenderTile" name="Image::RenderTile">
+<area shape="rect" id="node1" title=" " alt="" coords="515,46,656,73"/>
+<area shape="rect" id="node2" href="$class_tile_map_graphics_component.html#a08aab36f766c6c486457cbbc1dd75b15" title="Implementation of render logic." alt="" coords="260,5,467,47"/>
+<area shape="rect" id="node4" href="$class_sprite_graphics_component.html#a7299bb40fe519dd79af39bc945935eef" title="Render the Sprite on Game Window." alt="" coords="267,71,459,112"/>
+<area shape="rect" id="node3" href="$class_tile_map_graphics_component.html#a60f02fa9dc978789854a784d893d8d75" title="Render the tilemap on Game Window." alt="" coords="5,5,212,47"/>
+</map>

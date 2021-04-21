@@ -1,0 +1,5 @@
+<map id="GameObject::update" name="GameObject::update">
+<area shape="rect" id="node1" title="Update the state of all components." alt="" coords="5,46,161,73"/>
+<area shape="rect" id="node2" href="$class_transform_component.html#a181d7b624d8e3b5111bb67b248c47e36" title="Update state." alt="" coords="209,5,372,47"/>
+<area shape="rect" id="node3" href="$class_graphics_component.html#aa363029dad779329ef538091e53e9227" title="Render texture on Game Window." alt="" coords="209,71,372,112"/>
+</map>

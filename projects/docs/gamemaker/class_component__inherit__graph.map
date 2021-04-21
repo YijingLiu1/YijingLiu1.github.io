@@ -1,0 +1,8 @@
+<map id="Component" name="Component">
+<area shape="rect" id="node1" title="The base class of Component for ECS System." alt="" coords="354,5,451,32"/>
+<area shape="rect" id="node2" href="$class_graphics_component.html" title="GraphicsComponent responsible for renderring texture." alt="" coords="235,80,389,107"/>
+<area shape="rect" id="node6" href="$class_transform_component.html" title="Component to store transform info." alt="" coords="413,80,576,107"/>
+<area shape="rect" id="node3" href="$class_sprite_graphics_component.html" title=" " alt="" coords="5,155,197,181"/>
+<area shape="rect" id="node4" href="$class_text_graphics_component.html" title="GraphicsComponent to render Text." alt="" coords="221,155,403,181"/>
+<area shape="rect" id="node5" href="$class_tile_map_graphics_component.html" title="GraphicsComponent to render TileMap." alt="" coords="427,155,634,181"/>
+</map>
